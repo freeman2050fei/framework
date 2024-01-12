@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=cn.xu.framework.design.strategy.aspect.SpfServiceAspect,\
+  cn.xu.framework.design.printlog.aspect.OpLogAspect
