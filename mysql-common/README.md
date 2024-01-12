@@ -1,5 +1,5 @@
 ## 项目名称
-### 通用的标准ConditionVo入参转mysql 标准DML执行公共模块
+### 通用的标准入参转mysql 标准DML执行公共模块
 > 提供SqlBaseDao并实现公共方法
 >>标准的select 单条、多条、分页查询实体方法
 >>标准的实体insert、update、delete方法
