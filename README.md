@@ -1,10 +1,10 @@
 ## Author
-clarkxu
+* Clark Xu
 ## Email
-clark2021@qq.com 
-clarkxu0520@sina.cn
+* clark2021@qq.com 
+* clarkxu0520@sina.cn
 ## 微信号
-clark_2023
+* clark_2023
 
 ps：以下为多年编程经验总结，有任何问题可与我联系，谢谢！
 
