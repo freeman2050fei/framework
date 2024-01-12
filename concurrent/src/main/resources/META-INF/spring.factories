@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=cn.xu.framework.concurrent.consumer.ConcurrentConsumerRegisterFactory,\
+  cn.xu.framework.concurrent.queue.DistributeRouteRedisLuaQueue

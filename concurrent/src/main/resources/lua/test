@@ -1,0 +1,30 @@
+
+
+del drq_q_last_{default}
+
+del drq_init_{default}
+
+d1
+zrange drq_q_last_{default} 0 -1 WITHSCORES
+
+d2
+zrange drq_m_last_{default} 0 -1 WITHSCORES
+
+d3
+drq_m_qrel_{default}_?
+SMEMBERS drq_m_qrel_{default}_1701237464546-15636-15636@DESK
+SMEMBERS drq_m_qrel_{default}_1701236406976-30376-30376@DESK
+
+d4
+zrange drq_m_num_{default} 0 -1 WITHSCORES
+
+ZREVRANGE drq_m_num_{default} 0 1 WITHSCORES
+
+
+ZREVRANGEBYSCORE drq_m_num_{default} 3 8 WITHSCORES
+
+get drq_mgr_{default}
+
+
+ZREVRANGE drq_m_num_{default} 0 -1
+
