@@ -1,3 +1,4 @@
+[![Security Status](https://www.murphysec.com/platform3/v31/badge/1746647309255081984.svg)](https://www.murphysec.com/console/report/1746647309213138945/1746647309255081984)
 ## Author
 * Clark Xu
 ## Email
